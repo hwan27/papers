@@ -34,3 +34,6 @@
     - Sparse Prediction(two-stage)
       - anchor-based: Faster R-CNN, R-FCN, Mask R-CNN
       - anchor-free: RepPoints
+      
+### 2.2 Bag of freebies
+
